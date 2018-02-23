@@ -1,0 +1,22 @@
+{
+  "name": "omdb-movie",
+  "version": "1.0.0",
+  "description": "OMDB",
+  "main": "omdbInteract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcgutierrez93/OMDB-Movie.git"
+  },
+  "author": "David Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcgutierrez93/OMDB-Movie/issues"
+  },
+  "homepage": "https://github.com/dcgutierrez93/OMDB-Movie#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
